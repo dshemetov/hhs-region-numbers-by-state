@@ -1,0 +1,60 @@
+state_code,state_id,state_name,hhs_region_number
+01,al,Alabama,4
+02,ak,Alaska,10
+04,az,Arizona,9
+05,ar,Arkansas,6
+06,ca,California,9
+08,co,Colorado,8
+09,ct,Connecticut,1
+10,de,Delaware,3
+11,dc,District of Columbia,3
+12,fl,Florida,4
+13,ga,Georgia,4
+15,hi,Hawaii,9
+16,id,Idaho,10
+17,il,Illinois,5
+18,in,Indiana,5
+19,ia,Iowa,7
+20,ks,Kansas,7
+21,ky,Kentucky,4
+22,la,Louisiana,6
+23,me,Maine,1
+24,md,Maryland,3
+25,ma,Massachusetts,1
+26,mi,Michigan,5
+27,mn,Minnesota,5
+28,ms,Mississippi,4
+29,mo,Missouri,7
+30,mt,Montana,8
+31,ne,Nebraska,7
+32,nv,Nevada,9
+33,nh,New Hampshire,1
+34,nj,New Jersey,2
+35,nm,New Mexico,6
+36,ny,New York,2
+37,nc,North Carolina,4
+38,nd,North Dakota,8
+39,oh,Ohio,5
+40,ok,Oklahoma,6
+41,or,Oregon,10
+42,pa,Pennsylvania,3
+44,ri,Rhode Island,1
+45,sc,South Carolina,4
+46,sd,South Dakota,8
+47,tn,Tennessee,4
+48,tx,Texas,6
+49,ut,Utah,8
+50,vt,Vermont,1
+51,va,Virginia,3
+53,wa,Washington,10
+54,wv,West Virginia,3
+55,wi,Wisconsin,5
+56,wy,Wyoming,8
+60,as,American Samoa,9
+66,gu,Guam,9
+69,mp,Northern Mariana Islands,9
+72,pr,Puerto Rico,2
+78,vi,U.S. Virgin Islands,2
+70,pw,Republic of Palau,9
+68,mh,Marshall Islands,9
+64,fm,Federated States of Micronesia,9
